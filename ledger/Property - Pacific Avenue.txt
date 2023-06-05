@@ -1,0 +1,5 @@
+May 23
+Transaction 13 on journal page 2
+PR: Purchased Pacific Avenue
+Property - Pacific Avenue - 300
+

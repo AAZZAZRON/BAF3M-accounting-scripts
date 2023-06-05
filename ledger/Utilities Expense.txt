@@ -1,0 +1,10 @@
+May 26
+Transaction 50 on journal page 7
+PR: Paid Zoe utility fees
+Utilities Expense - 24
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Utilities Expense - 24
+

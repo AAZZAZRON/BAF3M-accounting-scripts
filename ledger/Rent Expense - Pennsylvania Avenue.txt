@@ -1,0 +1,10 @@
+May 26
+Transaction 54 on journal page 7
+PR: Paid rent for Pennsylvania Avenue
+Rent Expense - Pennsylvania Avenue - 150
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Rent Expense - Pennsylvania Avenue - 150
+

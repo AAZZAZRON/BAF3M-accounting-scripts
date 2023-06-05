@@ -1,0 +1,5 @@
+May 23
+Transaction 2 on journal page 1
+PR: Donated personal car to company
+Automobile - 1200
+

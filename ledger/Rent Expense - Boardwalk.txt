@@ -1,0 +1,10 @@
+May 25
+Transaction 24 on journal page 3
+PR: Paid rent to Judah for Boardwalk
+Rent Expense - Boardwalk - 50
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Rent Expense - Boardwalk - 50
+

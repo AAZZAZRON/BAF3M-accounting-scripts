@@ -1,0 +1,15 @@
+May 23
+Transaction 12 on journal page 2
+PR: Paid rent to Zoe for Atlantic Avenue
+Rent Expense - Atlantic Avenue - 22
+
+May 26
+Transaction 52 on journal page 7
+PR: Paid rent to Zoe for Atlantic Avenue
+Rent Expense - Atlantic Avenue - 330
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Rent Expense - Atlantic Avenue - 352
+

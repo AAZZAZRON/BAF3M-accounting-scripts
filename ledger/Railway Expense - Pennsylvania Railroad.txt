@@ -1,0 +1,15 @@
+May 25
+Transaction 19 on journal page 3
+PR: Paid Luke railway expense for Pennsylvania Railroad
+Railway Expense - Pennsylvania Railroad - 50
+
+May 26
+Transaction 68 on journal page 9
+PR: Paid Judah railway expense for Pennsylvania Railroad
+Railway Expense - Pennsylvania Railroad - 100
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Railway Expense - Pennsylvania Railroad - 150
+

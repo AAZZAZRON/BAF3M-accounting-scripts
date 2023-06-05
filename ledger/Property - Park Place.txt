@@ -1,0 +1,5 @@
+May 26
+Transaction 74 on journal page 10
+PR: Purchased Park Place with one house from Shane for $1000, and he didn't pay rent (final price was $1390)
+Property - Park Place - 1190
+

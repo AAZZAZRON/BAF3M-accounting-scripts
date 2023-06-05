@@ -1,0 +1,15 @@
+May 23
+Transaction 5 on journal page 1
+PR: Landed on B.& O. Railroad
+Railway Expense - B. & O. Railroad - 50
+
+May 26
+Transaction 75 on journal page 10
+PR: Landed on B.& O. Railroad
+Railway Expense - B. & O. Railroad - 100
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Railway Expense - B. & O. Railroad - 150
+

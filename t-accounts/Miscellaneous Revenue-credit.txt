@@ -1,0 +1,6 @@
+Transaction 6 - 10
+Transaction 22 - 100
+Transaction 23 - 50
+Transaction 42 - 50
+Transaction 63 - 200
+Transaction 71 - 10

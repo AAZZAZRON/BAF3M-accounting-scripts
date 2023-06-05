@@ -1,0 +1,15 @@
+May 26
+Transaction 86 on journal page 11
+PR: Closing entry for revenue
+     Income Summary - 5600
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+Income Summary - 2097
+
+May 26
+Transaction 88 on journal page 12
+PR: Closing entry for capital (income summary)
+Income Summary - 3503
+

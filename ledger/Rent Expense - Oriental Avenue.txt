@@ -1,0 +1,10 @@
+May 25
+Transaction 27 on journal page 4
+PR: Paid rent to Luke for Oriental Avenue
+Rent Expense - Oriental Avenue - 30
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Rent Expense - Oriental Avenue - 30
+

@@ -1,0 +1,35 @@
+May 23
+Transaction 10 on journal page 2
+PR: Received Judah's rent for St. James Place
+     Rent Revenue - St. James Place - 14
+
+May 25
+Transaction 28 on journal page 4
+PR: Received rent for St. James Place
+     Rent Revenue - St. James Place - 14
+
+May 26
+Transaction 49 on journal page 7
+PR: Received Max's rent for St. James Place
+     Rent Revenue - St. James Place - 14
+
+May 26
+Transaction 69 on journal page 9
+PR: Received Judah's rent for St. James Place
+     Rent Revenue - St. James Place - 14
+
+May 26
+Transaction 70 on journal page 9
+PR: Received Luke's rent for St. James Place
+     Rent Revenue - St. James Place - 14
+
+May 26
+Transaction 78 on journal page 10
+PR: Received rent for St. James Place
+     Rent Revenue - St. James Place - 14
+
+May 26
+Transaction 86 on journal page 11
+PR: Closing entry for revenue
+Rent Revenue - St. James Place - 84
+

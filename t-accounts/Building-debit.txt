@@ -1,0 +1,6 @@
+Transaction 32 - 200
+Transaction 41 - 200
+Transaction 67 - 100
+Transaction 74 - 200
+Transaction 77 - 200
+Transaction 83 - 100

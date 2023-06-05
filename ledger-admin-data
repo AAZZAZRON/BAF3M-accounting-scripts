@@ -1,0 +1,204 @@
+Account Name
+Account Number
+Worksheet Name
+Row start
+Col start
+
+Bail Expense
+500
+EXPENSES
+6
+1
+
+Miscellaneous Expense
+501
+EXPENSES
+12
+1
+
+Railway Expense - B. & O. Railroad
+502
+EXPENSES
+21
+1
+
+Railway Expense - Pennsylvania Railroad
+503
+EXPENSES
+29
+1
+
+Rent Expense - Atlantic Avenue
+504
+EXPENSES
+37
+1
+
+Rent Expense - Boardwalk
+505
+EXPENSES
+44
+1
+
+Rent Expense - Indiana Avenue
+506
+EXPENSES
+51
+1
+
+Rent Expense - New York Avenue
+507
+EXPENSES
+58
+1
+
+Rent Expense - North Carolina Avenue
+508
+EXPENSES
+65
+1
+
+Rent Expense - Oriental Avenue
+509
+EXPENSES
+72
+1
+
+Rent Expense - Pennsylvania Avenue
+510
+EXPENSES
+79
+1
+
+Rent Expense - St. Charles Place
+511
+EXPENSES
+86
+1
+
+Rent Expense - Tennessee Avenue
+512
+EXPENSES
+93
+1
+
+Rent Expense - Ventnor Avenue
+513
+EXPENSES
+100
+1
+
+Rent Expense - Vermont Avenue
+514
+EXPENSES
+107
+1
+
+Rent Expense - Virginia Avenue
+515
+EXPENSES
+114
+1
+
+Tax Expense
+516
+EXPENSES
+121
+1
+
+Utilities Expense
+517
+EXPENSES
+128
+1
+
+Go Revenue
+400
+REVENUES
+6
+1
+
+Rent Revenue - Pacific Avenue
+401
+REVENUES
+21
+1
+
+Rent Revenue - St. Charles Place
+402
+REVENUES
+43
+1
+
+Rent Revenue - St. James Place
+403
+REVENUES
+53
+1
+
+Miscellaneous Revenue
+404
+REVENUES
+63
+1
+
+A. Zhu, Capital
+300
+EQUITY
+6
+1
+
+Income Summary
+301
+EQUITY
+13
+1
+
+Bank Loan
+200
+LIABILITIES
+6
+1
+
+Automobile
+101
+ASSETS
+6
+1
+
+Property - Pacific Avenue
+102
+ASSETS
+13
+1
+
+Property - Park Place
+103
+ASSETS
+21
+1
+
+Property - St. Charles Place
+104
+ASSETS
+28
+1
+
+Property - St. James Place
+105
+ASSETS
+34
+1
+
+Building
+106
+ASSETS
+41
+1
+
+Cash
+100
+Individual Accounts
+6
+1
+

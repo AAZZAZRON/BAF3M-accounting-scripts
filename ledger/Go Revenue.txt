@@ -1,0 +1,45 @@
+May 23
+Transaction 7 on journal page 1
+PR: Passed GO
+     Go Revenue - 200
+
+May 23
+Transaction 14 on journal page 2
+PR: Passed GO
+     Go Revenue - 200
+
+May 25
+Transaction 25 on journal page 4
+PR: Passed GO
+     Go Revenue - 200
+
+May 25
+Transaction 36 on journal page 5
+PR: Passed GO
+     Go Revenue - 200
+
+May 26
+Transaction 44 on journal page 6
+PR: Passed GO
+     Go Revenue - 200
+
+May 26
+Transaction 57 on journal page 8
+PR: Passed GO
+     Go Revenue - 200
+
+May 26
+Transaction 64 on journal page 8
+PR: Passed GO
+     Go Revenue - 200
+
+May 26
+Transaction 79 on journal page 10
+PR: Passed GO
+     Go Revenue - 200
+
+May 26
+Transaction 86 on journal page 11
+PR: Closing entry for revenue
+Go Revenue - 1600
+

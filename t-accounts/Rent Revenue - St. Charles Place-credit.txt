@@ -1,0 +1,5 @@
+Transaction 18 - 10
+Transaction 29 - 10
+Transaction 55 - 10
+Transaction 66 - 10
+Transaction 81 - 50

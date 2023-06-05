@@ -1,0 +1,420 @@
+May 23
+Transaction 1 on journal page 1
+PR: Initial bank loan to start game
+Cash - 1860
+
+May 23
+Transaction 3 on journal page 1
+PR: Speeding fine
+     Cash - 15
+
+May 23
+Transaction 4 on journal page 1
+PR: Purchased St. James
+     Cash - 180
+
+May 23
+Transaction 5 on journal page 1
+PR: Landed on B.& O. Railroad
+     Cash - 50
+
+May 23
+Transaction 6 on journal page 1
+PR: Won a beauty contest
+Cash - 10
+
+May 23
+Transaction 7 on journal page 1
+PR: Passed GO
+Cash - 200
+
+May 23
+Transaction 8 on journal page 1
+PR: Passed GO - pay bank loan
+     Cash - 10
+
+May 23
+Transaction 9 on journal page 2
+PR: Purchased birthday present for Max
+     Cash - 10
+
+May 23
+Transaction 10 on journal page 2
+PR: Received Judah's rent for St. James Place
+Cash - 14
+
+May 23
+Transaction 11 on journal page 2
+PR: Paid rent to Max for St. Charles Place
+     Cash - 10
+
+May 23
+Transaction 12 on journal page 2
+PR: Paid rent to Zoe for Atlantic Avenue
+     Cash - 22
+
+May 23
+Transaction 13 on journal page 2
+PR: Purchased Pacific Avenue
+     Cash - 300
+
+May 23
+Transaction 14 on journal page 2
+PR: Passed GO
+Cash - 200
+
+May 23
+Transaction 15 on journal page 2
+PR: Passed GO - pay bank loan
+     Cash - 10
+
+May 23
+Transaction 16 on journal page 2
+PR: Paid rent to Zoe for Vermont Avenue
+     Cash - 6
+
+May 25
+Transaction 17 on journal page 3
+PR: Purchased St. Charles Place from Max at Discount
+     Cash - 100
+
+May 25
+Transaction 18 on journal page 3
+PR: Received rent for St. Charles Place
+Cash - 10
+
+May 25
+Transaction 19 on journal page 3
+PR: Paid Luke railway expense for Pennsylvania Railroad
+     Cash - 50
+
+May 25
+Transaction 20 on journal page 3
+PR: Received rent for Pacific Avenue
+Cash - 26
+
+May 25
+Transaction 21 on journal page 3
+PR: Paid rent for Ventnor Avenue to Victoria
+     Cash - 110
+
+May 25
+Transaction 22 on journal page 3
+PR: Inherited 100 dollars from community chest
+Cash - 100
+
+May 25
+Transaction 23 on journal page 3
+PR: Received cash from Zoe
+Cash - 50
+
+May 25
+Transaction 24 on journal page 3
+PR: Paid rent to Judah for Boardwalk
+     Cash - 50
+
+May 25
+Transaction 25 on journal page 4
+PR: Passed GO
+Cash - 200
+
+May 25
+Transaction 26 on journal page 4
+PR: Passed GO - pay bank loan
+     Cash - 10
+
+May 25
+Transaction 27 on journal page 4
+PR: Paid rent to Luke for Oriental Avenue
+     Cash - 30
+
+May 25
+Transaction 28 on journal page 4
+PR: Received rent for St. James Place
+Cash - 14
+
+May 25
+Transaction 29 on journal page 4
+PR: Received rent for St. Charles Place
+Cash - 10
+
+May 25
+Transaction 30 on journal page 4
+PR: Paid rent for Virginia Avenue
+     Cash - 12
+
+May 25
+Transaction 31 on journal page 4
+PR: Paid rent for Indiana Avenue
+     Cash - 18
+
+May 25
+Transaction 32 on journal page 4
+PR: Purchased a house for Pacific Avenue
+     Cash - 200
+
+May 25
+Transaction 33 on journal page 5
+PR: Received rent for Pacific Avenue
+Cash - 130
+
+May 25
+Transaction 34 on journal page 5
+PR: Received rent for Pacific Avenue
+Cash - 130
+
+May 25
+Transaction 35 on journal page 5
+PR: Paid luxury tax
+     Cash - 100
+
+May 25
+Transaction 36 on journal page 5
+PR: Passed GO
+Cash - 200
+
+May 25
+Transaction 37 on journal page 5
+PR: Passed GO - pay bank loan
+     Cash - 10
+
+May 25
+Transaction 38 on journal page 5
+PR: Paid hospital fee
+     Cash - 100
+
+May 25
+Transaction 39 on journal page 5
+PR: Paid income tax
+     Cash - 200
+
+May 25
+Transaction 40 on journal page 5
+PR: Paid rent for New York Avenue
+     Cash - 16
+
+May 25
+Transaction 41 on journal page 6
+PR: Purchased a house for Pacific Avenue
+     Cash - 200
+
+May 25
+Transaction 42 on journal page 6
+PR: Bank paid dividends
+Cash - 50
+
+May 26
+Transaction 43 on journal page 6
+PR: Received rent for Pacific Avenue
+Cash - 390
+
+May 26
+Transaction 44 on journal page 6
+PR: Passed GO
+Cash - 200
+
+May 26
+Transaction 45 on journal page 6
+PR: Passed GO - pay bank loan
+     Cash - 10
+
+May 26
+Transaction 46 on journal page 6
+PR: Paid school fees
+     Cash - 50
+
+May 26
+Transaction 47 on journal page 6
+PR: Received rent for Pacific Avenue
+Cash - 390
+
+May 26
+Transaction 48 on journal page 6
+PR: Received rent for Pacific Avenue
+Cash - 390
+
+May 26
+Transaction 49 on journal page 7
+PR: Received Max's rent for St. James Place
+Cash - 14
+
+May 26
+Transaction 50 on journal page 7
+PR: Paid Zoe utility fees
+     Cash - 24
+
+May 26
+Transaction 51 on journal page 7
+PR: Paid rent for Tennessee Avenue
+     Cash - 70
+
+May 26
+Transaction 52 on journal page 7
+PR: Paid rent to Zoe for Atlantic Avenue
+     Cash - 330
+
+May 26
+Transaction 53 on journal page 7
+PR: Received rent for Pacific Avenue
+Cash - 390
+
+May 26
+Transaction 54 on journal page 7
+PR: Paid rent for Pennsylvania Avenue
+     Cash - 150
+
+May 26
+Transaction 55 on journal page 7
+PR: Received rent for St. Charles Place
+Cash - 10
+
+May 26
+Transaction 56 on journal page 7
+PR: Paid income tax
+     Cash - 200
+
+May 26
+Transaction 57 on journal page 8
+PR: Passed GO
+Cash - 200
+
+May 26
+Transaction 58 on journal page 8
+PR: Passed GO - pay bank loan
+     Cash - 10
+
+May 26
+Transaction 59 on journal page 8
+PR: Paid rent for New York Avenue
+     Cash - 16
+
+May 26
+Transaction 60 on journal page 8
+PR: Received rent for Pacific Avenue
+Cash - 390
+
+May 26
+Transaction 61 on journal page 8
+PR: Paid rent for Indiana Avenue
+     Cash - 18
+
+May 26
+Transaction 62 on journal page 8
+PR: Paid rent for North Carolina Avenue
+     Cash - 26
+
+May 26
+Transaction 63 on journal page 8
+PR: Gained cash from a bank error
+Cash - 200
+
+May 26
+Transaction 64 on journal page 8
+PR: Passed GO
+Cash - 200
+
+May 26
+Transaction 65 on journal page 9
+PR: Passed GO - pay bank loan
+     Cash - 10
+
+May 26
+Transaction 66 on journal page 9
+PR: Received rent for St. Charles Place
+Cash - 10
+
+May 26
+Transaction 67 on journal page 9
+PR: Purchased a house on St. Charles Place
+     Cash - 100
+
+May 26
+Transaction 68 on journal page 9
+PR: Paid Judah railway expense for Pennsylvania Railroad
+     Cash - 100
+
+May 26
+Transaction 69 on journal page 9
+PR: Received Judah's rent for St. James Place
+Cash - 14
+
+May 26
+Transaction 70 on journal page 9
+PR: Received Luke's rent for St. James Place
+Cash - 14
+
+May 26
+Transaction 71 on journal page 9
+PR: Won money from a beauty contest
+Cash - 10
+
+May 26
+Transaction 72 on journal page 9
+PR: Paid rent for New York Avenue
+     Cash - 16
+
+May 26
+Transaction 73 on journal page 10
+PR: Received rent for Pacific Avenue
+Cash - 390
+
+May 26
+Transaction 74 on journal page 10
+PR: Purchased Park Place with one house from Shane for $1000, and he didn't pay rent (final price was $1390)
+     Cash - 1000
+
+May 26
+Transaction 75 on journal page 10
+PR: Landed on B.& O. Railroad
+     Cash - 100
+
+May 26
+Transaction 76 on journal page 10
+PR: Paid rent for North Carolina Avenue
+     Cash - 130
+
+May 26
+Transaction 77 on journal page 10
+PR: Purchased a house on Park Place
+     Cash - 200
+
+May 26
+Transaction 78 on journal page 10
+PR: Received rent for St. James Place
+Cash - 14
+
+May 26
+Transaction 79 on journal page 10
+PR: Passed GO
+Cash - 200
+
+May 26
+Transaction 80 on journal page 11
+PR: Passed GO - pay bank loan
+     Cash - 10
+
+May 26
+Transaction 81 on journal page 11
+PR: Received rent for St. Charles Place
+Cash - 50
+
+May 26
+Transaction 82 on journal page 11
+PR: Paid to get out of jail
+     Cash - 50
+
+May 26
+Transaction 83 on journal page 11
+PR: Purchased a house on St. James Place
+     Cash - 100
+
+May 26
+Transaction 84 on journal page 11
+PR: Received rent for Pacific Avenue
+Cash - 390
+
+May 26
+Transaction 85 on journal page 11
+PR: Paid rent for Indiana Avenue
+     Cash - 18
+

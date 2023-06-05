@@ -1,0 +1,10 @@
+May 26
+Transaction 82 on journal page 11
+PR: Paid to get out of jail
+Bail Expense - 50
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Bail Expense - 50
+

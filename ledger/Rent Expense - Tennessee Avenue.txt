@@ -1,0 +1,10 @@
+May 26
+Transaction 51 on journal page 7
+PR: Paid rent for Tennessee Avenue
+Rent Expense - Tennessee Avenue - 70
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Rent Expense - Tennessee Avenue - 70
+

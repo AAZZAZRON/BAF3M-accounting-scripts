@@ -1,0 +1,25 @@
+May 23
+Transaction 3 on journal page 1
+PR: Speeding fine
+Miscellaneous Expense - 15
+
+May 23
+Transaction 9 on journal page 2
+PR: Purchased birthday present for Max
+Miscellaneous Expense - 10
+
+May 25
+Transaction 38 on journal page 5
+PR: Paid hospital fee
+Miscellaneous Expense - 100
+
+May 26
+Transaction 46 on journal page 6
+PR: Paid school fees
+Miscellaneous Expense - 50
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Miscellaneous Expense - 175
+

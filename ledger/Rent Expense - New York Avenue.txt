@@ -1,0 +1,20 @@
+May 25
+Transaction 40 on journal page 5
+PR: Paid rent for New York Avenue
+Rent Expense - New York Avenue - 16
+
+May 26
+Transaction 59 on journal page 8
+PR: Paid rent for New York Avenue
+Rent Expense - New York Avenue - 16
+
+May 26
+Transaction 72 on journal page 9
+PR: Paid rent for New York Avenue
+Rent Expense - New York Avenue - 16
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Rent Expense - New York Avenue - 48
+

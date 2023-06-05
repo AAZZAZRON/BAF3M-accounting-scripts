@@ -1,0 +1,15 @@
+May 26
+Transaction 62 on journal page 8
+PR: Paid rent for North Carolina Avenue
+Rent Expense - North Carolina Avenue - 26
+
+May 26
+Transaction 76 on journal page 10
+PR: Paid rent for North Carolina Avenue
+Rent Expense - North Carolina Avenue - 130
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Rent Expense - North Carolina Avenue - 156
+

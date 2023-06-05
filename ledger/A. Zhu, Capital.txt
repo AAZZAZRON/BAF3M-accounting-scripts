@@ -1,0 +1,10 @@
+May 23
+Transaction 2 on journal page 1
+PR: Donated personal car to company
+     A. Zhu, Capital - 1200
+
+May 26
+Transaction 88 on journal page 12
+PR: Closing entry for capital (income summary)
+     A. Zhu, Capital - 3503
+

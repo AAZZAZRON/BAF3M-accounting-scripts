@@ -1,0 +1,35 @@
+May 23
+Transaction 6 on journal page 1
+PR: Won a beauty contest
+     Miscellaneous Revenue - 10
+
+May 25
+Transaction 22 on journal page 3
+PR: Inherited 100 dollars from community chest
+     Miscellaneous Revenue - 100
+
+May 25
+Transaction 23 on journal page 3
+PR: Received cash from Zoe
+     Miscellaneous Revenue - 50
+
+May 25
+Transaction 42 on journal page 6
+PR: Bank paid dividends
+     Miscellaneous Revenue - 50
+
+May 26
+Transaction 63 on journal page 8
+PR: Gained cash from a bank error
+     Miscellaneous Revenue - 200
+
+May 26
+Transaction 71 on journal page 9
+PR: Won money from a beauty contest
+     Miscellaneous Revenue - 10
+
+May 26
+Transaction 86 on journal page 11
+PR: Closing entry for revenue
+Miscellaneous Revenue - 420
+

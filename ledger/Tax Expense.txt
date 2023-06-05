@@ -1,0 +1,20 @@
+May 25
+Transaction 35 on journal page 5
+PR: Paid luxury tax
+Tax Expense - 100
+
+May 25
+Transaction 39 on journal page 5
+PR: Paid income tax
+Tax Expense - 200
+
+May 26
+Transaction 56 on journal page 7
+PR: Paid income tax
+Tax Expense - 200
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Tax Expense - 500
+

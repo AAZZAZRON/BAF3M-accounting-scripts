@@ -1,0 +1,45 @@
+May 23
+Transaction 1 on journal page 1
+PR: Initial bank loan to start game
+     Bank Loan - 1860
+
+May 23
+Transaction 8 on journal page 1
+PR: Passed GO - pay bank loan
+Bank Loan - 10
+
+May 23
+Transaction 15 on journal page 2
+PR: Passed GO - pay bank loan
+Bank Loan - 10
+
+May 25
+Transaction 26 on journal page 4
+PR: Passed GO - pay bank loan
+Bank Loan - 10
+
+May 25
+Transaction 37 on journal page 5
+PR: Passed GO - pay bank loan
+Bank Loan - 10
+
+May 26
+Transaction 45 on journal page 6
+PR: Passed GO - pay bank loan
+Bank Loan - 10
+
+May 26
+Transaction 58 on journal page 8
+PR: Passed GO - pay bank loan
+Bank Loan - 10
+
+May 26
+Transaction 65 on journal page 9
+PR: Passed GO - pay bank loan
+Bank Loan - 10
+
+May 26
+Transaction 80 on journal page 11
+PR: Passed GO - pay bank loan
+Bank Loan - 10
+

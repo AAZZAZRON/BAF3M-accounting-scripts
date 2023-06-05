@@ -1,0 +1,10 @@
+May 23
+Transaction 11 on journal page 2
+PR: Paid rent to Max for St. Charles Place
+Rent Expense - St. Charles Place - 10
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Rent Expense - St. Charles Place - 10
+

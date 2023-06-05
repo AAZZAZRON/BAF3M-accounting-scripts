@@ -1,0 +1,750 @@
+23
+1
+Cash
+1860
+     Bank Loan
+1860
+Initial bank loan to start game
+
+23
+1
+Automobile
+1200
+     A. Zhu, Capital
+1200
+Donated personal car to company
+
+23
+1
+Miscellaneous Expense
+15
+     Cash
+15
+Speeding fine
+
+23
+1
+Property - St. James Place
+180
+     Cash
+180
+Purchased St. James
+
+23
+1
+Railway Expense - B. & O. Railroad
+50
+     Cash
+50
+Landed on B.& O. Railroad
+
+23
+1
+Cash
+10
+     Miscellaneous Revenue
+10
+Won a beauty contest
+
+23
+1
+Cash
+200
+     Go Revenue
+200
+Passed GO
+
+23
+1
+Bank Loan
+10
+     Cash
+10
+Passed GO - pay bank loan
+
+23
+2
+Miscellaneous Expense
+10
+     Cash
+10
+Purchased birthday present for Max
+
+23
+2
+Cash
+14
+     Rent Revenue - St. James Place
+14
+Received Judah's rent for St. James Place
+
+23
+2
+Rent Expense - St. Charles Place
+10
+     Cash
+10
+Paid rent to Max for St. Charles Place
+
+23
+2
+Rent Expense - Atlantic Avenue
+22
+     Cash
+22
+Paid rent to Zoe for Atlantic Avenue
+
+23
+2
+Property - Pacific Avenue
+300
+     Cash
+300
+Purchased Pacific Avenue
+
+23
+2
+Cash
+200
+     Go Revenue
+200
+Passed GO
+
+23
+2
+Bank Loan
+10
+     Cash
+10
+Passed GO - pay bank loan
+
+23
+2
+Rent Expense - Vermont Avenue
+6
+     Cash
+6
+Paid rent to Zoe for Vermont Avenue
+
+25
+3
+Property - St. Charles Place
+100
+     Cash
+100
+Purchased St. Charles Place from Max at Discount
+
+25
+3
+Cash
+10
+     Rent Revenue - St. Charles Place
+10
+Received rent for St. Charles Place
+
+25
+3
+Railway Expense - Pennsylvania Railroad
+50
+     Cash
+50
+Paid Luke railway expense for Pennsylvania Railroad
+
+25
+3
+Cash
+26
+     Rent Revenue - Pacific Avenue
+26
+Received rent for Pacific Avenue
+
+25
+3
+Rent Expense - Ventnor Avenue
+110
+     Cash
+110
+Paid rent for Ventnor Avenue to Victoria
+
+25
+3
+Cash
+100
+     Miscellaneous Revenue
+100
+Inherited 100 dollars from community chest
+
+25
+3
+Cash
+50
+     Miscellaneous Revenue
+50
+Received cash from Zoe
+
+25
+3
+Rent Expense - Boardwalk
+50
+     Cash
+50
+Paid rent to Judah for Boardwalk
+
+25
+4
+Cash
+200
+     Go Revenue
+200
+Passed GO
+
+25
+4
+Bank Loan
+10
+     Cash
+10
+Passed GO - pay bank loan
+
+25
+4
+Rent Expense - Oriental Avenue
+30
+     Cash
+30
+Paid rent to Luke for Oriental Avenue
+
+25
+4
+Cash
+14
+     Rent Revenue - St. James Place
+14
+Received rent for St. James Place
+
+25
+4
+Cash
+10
+     Rent Revenue - St. Charles Place
+10
+Received rent for St. Charles Place
+
+25
+4
+Rent Expense - Virginia Avenue
+12
+     Cash
+12
+Paid rent for Virginia Avenue
+
+25
+4
+Rent Expense - Indiana Avenue
+18
+     Cash
+18
+Paid rent for Indiana Avenue
+
+25
+4
+Building
+200
+     Cash
+200
+Purchased a house for Pacific Avenue
+
+25
+5
+Cash
+130
+     Rent Revenue - Pacific Avenue
+130
+Received rent for Pacific Avenue
+
+25
+5
+Cash
+130
+     Rent Revenue - Pacific Avenue
+130
+Received rent for Pacific Avenue
+
+25
+5
+Tax Expense
+100
+     Cash
+100
+Paid luxury tax
+
+25
+5
+Cash
+200
+     Go Revenue
+200
+Passed GO
+
+25
+5
+Bank Loan
+10
+     Cash
+10
+Passed GO - pay bank loan
+
+25
+5
+Miscellaneous Expense
+100
+     Cash
+100
+Paid hospital fee
+
+25
+5
+Tax Expense
+200
+     Cash
+200
+Paid income tax
+
+25
+5
+Rent Expense - New York Avenue
+16
+     Cash
+16
+Paid rent for New York Avenue
+
+25
+6
+Building
+200
+     Cash
+200
+Purchased a house for Pacific Avenue
+
+25
+6
+Cash
+50
+     Miscellaneous Revenue
+50
+Bank paid dividends
+
+26
+6
+Cash
+390
+     Rent Revenue - Pacific Avenue
+390
+Received rent for Pacific Avenue
+
+26
+6
+Cash
+200
+     Go Revenue
+200
+Passed GO
+
+26
+6
+Bank Loan
+10
+     Cash
+10
+Passed GO - pay bank loan
+
+26
+6
+Miscellaneous Expense
+50
+     Cash
+50
+Paid school fees
+
+26
+6
+Cash
+390
+     Rent Revenue - Pacific Avenue
+390
+Received rent for Pacific Avenue
+
+26
+6
+Cash
+390
+     Rent Revenue - Pacific Avenue
+390
+Received rent for Pacific Avenue
+
+26
+7
+Cash
+14
+     Rent Revenue - St. James Place
+14
+Received Max's rent for St. James Place
+
+26
+7
+Utilities Expense
+24
+     Cash
+24
+Paid Zoe utility fees
+
+26
+7
+Rent Expense - Tennessee Avenue
+70
+     Cash
+70
+Paid rent for Tennessee Avenue
+
+26
+7
+Rent Expense - Atlantic Avenue
+330
+     Cash
+330
+Paid rent to Zoe for Atlantic Avenue
+
+26
+7
+Cash
+390
+     Rent Revenue - Pacific Avenue
+390
+Received rent for Pacific Avenue
+
+26
+7
+Rent Expense - Pennsylvania Avenue
+150
+     Cash
+150
+Paid rent for Pennsylvania Avenue
+
+26
+7
+Cash
+10
+     Rent Revenue - St. Charles Place
+10
+Received rent for St. Charles Place
+
+26
+7
+Tax Expense
+200
+     Cash
+200
+Paid income tax
+
+26
+8
+Cash
+200
+     Go Revenue
+200
+Passed GO
+
+26
+8
+Bank Loan
+10
+     Cash
+10
+Passed GO - pay bank loan
+
+26
+8
+Rent Expense - New York Avenue
+16
+     Cash
+16
+Paid rent for New York Avenue
+
+26
+8
+Cash
+390
+     Rent Revenue - Pacific Avenue
+390
+Received rent for Pacific Avenue
+
+26
+8
+Rent Expense - Indiana Avenue
+18
+     Cash
+18
+Paid rent for Indiana Avenue
+
+26
+8
+Rent Expense - North Carolina Avenue
+26
+     Cash
+26
+Paid rent for North Carolina Avenue
+
+26
+8
+Cash
+200
+     Miscellaneous Revenue
+200
+Gained cash from a bank error
+
+26
+8
+Cash
+200
+     Go Revenue
+200
+Passed GO
+
+26
+9
+Bank Loan
+10
+     Cash
+10
+Passed GO - pay bank loan
+
+26
+9
+Cash
+10
+     Rent Revenue - St. Charles Place
+10
+Received rent for St. Charles Place
+
+26
+9
+Building
+100
+     Cash
+100
+Purchased a house on St. Charles Place
+
+26
+9
+Railway Expense - Pennsylvania Railroad
+100
+     Cash
+100
+Paid Judah railway expense for Pennsylvania Railroad
+
+26
+9
+Cash
+14
+     Rent Revenue - St. James Place
+14
+Received Judah's rent for St. James Place
+
+26
+9
+Cash
+14
+     Rent Revenue - St. James Place
+14
+Received Luke's rent for St. James Place
+
+26
+9
+Cash
+10
+     Miscellaneous Revenue
+10
+Won money from a beauty contest
+
+26
+9
+Rent Expense - New York Avenue
+16
+     Cash
+16
+Paid rent for New York Avenue
+
+26
+10
+Cash
+390
+     Rent Revenue - Pacific Avenue
+390
+Received rent for Pacific Avenue
+
+26
+10
+Property - Park Place
+1190
+Building
+200
+     Rent Revenue - Pacific Avenue
+390
+     Cash
+1000
+Purchased Park Place with one house from Shane for $1000, and he didn't pay rent (final price was $1390)
+
+26
+10
+Railway Expense - B. & O. Railroad
+100
+     Cash
+100
+Landed on B.& O. Railroad
+
+26
+10
+Rent Expense - North Carolina Avenue
+130
+     Cash
+130
+Paid rent for North Carolina Avenue
+
+26
+10
+Building
+200
+     Cash
+200
+Purchased a house on Park Place
+
+26
+10
+Cash
+14
+     Rent Revenue - St. James Place
+14
+Received rent for St. James Place
+
+26
+10
+Cash
+200
+     Go Revenue
+200
+Passed GO
+
+26
+11
+Bank Loan
+10
+     Cash
+10
+Passed GO - pay bank loan
+
+26
+11
+Cash
+50
+     Rent Revenue - St. Charles Place
+50
+Received rent for St. Charles Place
+
+26
+11
+Bail Expense
+50
+     Cash
+50
+Paid to get out of jail
+
+26
+11
+Building
+100
+     Cash
+100
+Purchased a house on St. James Place
+
+26
+11
+Cash
+390
+     Rent Revenue - Pacific Avenue
+390
+Received rent for Pacific Avenue
+
+26
+11
+Rent Expense - Indiana Avenue
+18
+     Cash
+18
+Paid rent for Indiana Avenue
+
+26
+11
+Go Revenue
+1600
+Rent Revenue - Pacific Avenue
+3406
+Rent Revenue - St. Charles Place
+90
+Rent Revenue - St. James Place
+84
+Miscellaneous Revenue
+420
+     Income Summary
+5600
+Closing entry for revenue
+
+26
+12
+Income Summary
+2097
+     Bail Expense
+50
+     Miscellaneous Expense
+175
+     Railway Expense - B. & O. Railroad
+150
+     Railway Expense - Pennsylvania Railroad
+150
+     Rent Expense - Atlantic Avenue
+352
+     Rent Expense - Boardwalk
+50
+     Rent Expense - Indiana Avenue
+54
+     Rent Expense - New York Avenue
+48
+     Rent Expense - North Carolina Avenue
+156
+     Rent Expense - Oriental Avenue
+30
+     Rent Expense - Pennsylvania Avenue
+150
+     Rent Expense - St. Charles Place
+10
+     Rent Expense - Tennessee Avenue
+70
+     Rent Expense - Ventnor Avenue
+110
+     Rent Expense - Vermont Avenue
+6
+     Rent Expense - Virginia Avenue
+12
+     Tax Expense
+500
+     Utilities Expense
+24
+Closing entry for expenses
+
+26
+12
+Income Summary
+3503
+     A. Zhu, Capital
+3503
+Closing entry for capital (income summary)
+

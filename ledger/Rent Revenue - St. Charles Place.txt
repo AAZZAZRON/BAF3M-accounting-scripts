@@ -1,0 +1,30 @@
+May 25
+Transaction 18 on journal page 3
+PR: Received rent for St. Charles Place
+     Rent Revenue - St. Charles Place - 10
+
+May 25
+Transaction 29 on journal page 4
+PR: Received rent for St. Charles Place
+     Rent Revenue - St. Charles Place - 10
+
+May 26
+Transaction 55 on journal page 7
+PR: Received rent for St. Charles Place
+     Rent Revenue - St. Charles Place - 10
+
+May 26
+Transaction 66 on journal page 9
+PR: Received rent for St. Charles Place
+     Rent Revenue - St. Charles Place - 10
+
+May 26
+Transaction 81 on journal page 11
+PR: Received rent for St. Charles Place
+     Rent Revenue - St. Charles Place - 50
+
+May 26
+Transaction 86 on journal page 11
+PR: Closing entry for revenue
+Rent Revenue - St. Charles Place - 90
+

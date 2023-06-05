@@ -1,0 +1,5 @@
+May 25
+Transaction 17 on journal page 3
+PR: Purchased St. Charles Place from Max at Discount
+Property - St. Charles Place - 100
+

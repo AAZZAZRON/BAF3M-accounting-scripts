@@ -1,0 +1,5 @@
+May 23
+Transaction 4 on journal page 1
+PR: Purchased St. James
+Property - St. James Place - 180
+

@@ -1,0 +1,10 @@
+May 25
+Transaction 21 on journal page 3
+PR: Paid rent for Ventnor Avenue to Victoria
+Rent Expense - Ventnor Avenue - 110
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Rent Expense - Ventnor Avenue - 110
+

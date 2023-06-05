@@ -1,0 +1,10 @@
+May 23
+Transaction 16 on journal page 2
+PR: Paid rent to Zoe for Vermont Avenue
+Rent Expense - Vermont Avenue - 6
+
+May 26
+Transaction 87 on journal page 12
+PR: Closing entry for expenses
+     Rent Expense - Vermont Avenue - 6
+
